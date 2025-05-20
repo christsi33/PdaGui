@@ -32,8 +32,6 @@ Instead, it contains a **precompiled executable** that you can run directly:
 
 > Note: Make sure all necessary Qt DLLs are included in the same folder. If double-clicking does nothing, you might be missing some runtime files. Let the developer know.
 
----[README.md](https://github.com/user-attachments/files/20353436/README.md)
-
 
 ### 🛠️ Option 2: Build from Source (Developers Only)
 
@@ -58,3 +56,5 @@ Once obtained:
 This project was developed for educational purposes and is not intended for commercial use.  
 All rights reserved by the original author.
 
+
+---[README.md](https://github.com/user-attachments/files/20353436/README.md)
