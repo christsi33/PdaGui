@@ -32,6 +32,7 @@ build-*/
 # CMake (αν το χρησιμοποιείς)
 CMakeLists.txt.user*
 cmake-build-*/
+<<<<<<< HEAD
 
 # build folders
 build/
@@ -42,3 +43,6 @@ Desktop_Qt_6_9_0_MinGW_64_bit-Debug/
 *.o
 *.user
 *.log
+=======
+build/
+>>>>>>> f982a3d (Remove build folder and ignore it)
